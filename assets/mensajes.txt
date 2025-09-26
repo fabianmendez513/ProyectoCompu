@@ -1,0 +1,2 @@
+Bienvenido al Sistema de Estacionamiento 🚗
+Por favor, registre la entrada o salida de vehículos.
